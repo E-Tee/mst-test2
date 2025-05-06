@@ -43,7 +43,7 @@ video {
 .text-container {
     position: relative;
     height: 100vh;
-    font-size: clamp(60px, 8vw, 150px);
+    font-size: clamp(60px, 8vw, 120px);
     letter-spacing: clamp(1px, 0.1vw, 3px);
     letter-spacing: clamp(1px, 0.1vw, 3px);
 }
@@ -82,7 +82,7 @@ video {
     padding: 5vh 5vw 100%;
     z-index: 3;
     color: #fff;
-    font-size: clamp(60px, 8vw, 150px);
+    font-size: clamp(60px, 8vw, 120px);
     letter-spacing: clamp(1px, 0.1vw, 3px);
     letter-spacing: clamp(1px, 0.1vw, 3px);
 }
